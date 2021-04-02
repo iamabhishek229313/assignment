@@ -1,6 +1,6 @@
 import 'dart:math';
 
-import 'package:assign/room.dart';
+import 'package:assign/ui/room.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_feather_icons/flutter_feather_icons.dart';

@@ -1,4 +1,4 @@
-import 'package:assign/circular_card.dart';
+import 'package:assign/components/circular_card.dart';
 import 'package:flutter/material.dart';
 
 class Room extends StatefulWidget {
